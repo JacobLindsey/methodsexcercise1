@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{360577CC-72BB-4B20-95D1-DBF1AFEA80A6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="methodsexcercise1">
+    <Files>
+      <File FileName="methodsexcercise1/Program.cs" Line="38" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="methodsexcercise1" expanded="True">
+            <Node name="methodsexcercise1" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.methodsexcercise1 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
